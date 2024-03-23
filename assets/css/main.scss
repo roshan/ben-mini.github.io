@@ -4,11 +4,27 @@
 
 @charset "utf-8";
 
-$link-color: red;
-
 $serif      : Georgia, Times, serif;
 $sans-serif : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
+
+.archive__item-title {
+    font-size: 24px; /* Big text for title */
+  }
+  
+.archive__item-date {
+font-size: 14px; /* Smaller text for date */
+color: #666; /* Subtle color for the date */
+}
+
+hr {
+    border: none; /* Remove the default border */
+    height: 2px; /* Set the height of the hr, which will be the thickness of the line */
+    background-color: black; /* Set the color to black */
+    margin-top: 1em; /* Add some space above the hr */
+    margin-bottom: 1em; /* Add some space below the hr */
+}
+  
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
