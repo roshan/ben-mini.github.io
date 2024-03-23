@@ -8,6 +8,13 @@ $serif      : Georgia, Times, serif;
 $sans-serif : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
+
+.greedy-nav a.site-logo {
+  display: inline-block; // Ensure transform applies correctly
+  transform: scale(0.5); // Adjust scale as needed
+  transform-origin: left center; // Keeps the logo aligned to the left
+}
+
 .archive__item-title {
     font-size: 24px; /* Big text for title */
   }
