@@ -9,6 +9,10 @@ $sans-serif : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetic
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// Nav bar
 .greedy-nav a.site-logo {
   display: inline-block; // Ensure transform applies correctly
   transform-origin: left center; // Keeps the logo aligned to the left
@@ -28,7 +32,7 @@ $monospace  : Monaco, Consolas, "Lucida Console", monospace;
   }
 }
 
-
+// Home page item
 .archive__item-title {
     font-size: 24px; /* Big text for title */
   }
@@ -45,8 +49,8 @@ hr {
     margin-top: 1em; /* Add some space above the hr */
     margin-bottom: 1em; /* Add some space below the hr */
 }
-  
 
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+// Bio in about.md
+.sidebar {
+  opacity: 1;
+}

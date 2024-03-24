@@ -131,13 +131,13 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "X"
-      icon: "fa-brands fa-x-twitter"
-      url: "https://twitter.com/DJbennybuff"
-    - label: "LinkedIn"
+    - label: ""
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/benfwall/"
-    - label: "Github"
+    - label: ""
+      icon: "fa-brands fa-x-twitter"
+      url: "https://twitter.com/DJbennybuff"
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/benfwalla"
 
