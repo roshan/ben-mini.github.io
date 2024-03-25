@@ -2,8 +2,8 @@
 
 ---
 
-$serif: Georgia, Times, serif !default;
 $sans-serif: "FreightSansPro", -apple-system, BlinkMacSystemFont, Arial, sans-serif !default;
+$serif: $sans-serif;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 // Colors
