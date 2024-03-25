@@ -11,7 +11,7 @@ Ben, here! I've worked as an automation engineer, project manager, and solution 
 
 I made `ben-mini` to jot down "mini essays". A mini essay is a stress-free way for me to record remarkable ideas from blogs, books, podcasts, friends, or my own experience. By forcing me to articulate my thoughts, my goal is for `ben-mini` to help me become a better technologist, strategist, and human being.
 
-Oh, and my logo was inspired by the iPhone game [Cube Runner]((https://www.reddit.com/r/nostalgia/comments/axaqig/everyone_had_cube_runner_on_their_ipod_touch_1st/), which was perhaps the first "holy shit" tech moment of my life.
+Oh, and my logo was inspired by the iPhone game [Cube Runner](https://www.reddit.com/r/nostalgia/comments/axaqig/everyone_had_cube_runner_on_their_ipod_touch_1st/), which was perhaps the first "holy shit" tech moment of my life.
 
 ### Some Projects
 
