@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 author_profile: true
 ---
+![ben-mini](/assets/images/ben-mini.svg)
 
 Hi 👋,
 
