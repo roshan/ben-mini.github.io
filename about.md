@@ -20,7 +20,7 @@ Oh, and my logo was inspired by the iPhone game [Cube Runner](https://www.reddit
 
 - Can Data Make Me a Better Basketball Rebounder? ([Youtube](https://www.youtube.com/watch?v=fsCXGvJFfHI))
 
-### Some Blogs
+### Some Great Blogs
 
 - [Stratechery](https://stratechery.com/) by Ben Thompson
 
@@ -28,7 +28,7 @@ Oh, and my logo was inspired by the iPhone game [Cube Runner](https://www.reddit
 
 - [Paul Graham](https://www.paulgraham.com/)
 
-### Some Books
+### Some Great Books
 
 - [The Innovator's Dilemma](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) by Clayton Christensen
 
