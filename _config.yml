@@ -28,7 +28,7 @@ name                     : "Ben Wallace"
 description              : "Mini essays about tech, business, and really whatever"
 url                      : "https://ben-mini-github.io"
 baseurl                  :
-repository               : "benfwalla/ben-mini"
+repository               : "ben-mini/ben-mini"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/ben-mini.svg"
 masthead_title           : " "
