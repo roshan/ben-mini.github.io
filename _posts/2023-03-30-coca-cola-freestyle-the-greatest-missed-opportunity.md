@@ -2,7 +2,8 @@
 layout: single
 title:  "Coca-Cola Freestyle: The Greatest Missed Opportunity"
 date:   2024-03-30
-og_image: "../assets/images/coca-cola-freestyle-wells-library.jpg"
+header:
+    og_image: "../assets/images/coca-cola-freestyle-wells-library.jpg"
 ---
 
 ![Coca-Cola Freestyle Machine Wells Library](../assets/images/coca-cola-freestyle-wells-library.jpg)
