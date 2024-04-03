@@ -14,6 +14,8 @@ I made `ben-mini` to jot down "mini essays". A mini essay is a stress-free way f
 
 Oh, and my logo was inspired by the iPhone game [Cube Runner](https://www.reddit.com/r/nostalgia/comments/axaqig/everyone_had_cube_runner_on_their_ipod_touch_1st/), which was perhaps the first "holy shit" tech moment of my life.
 
+*AI Disclaimer: All ideas written in my articles are my own unless otherwise stated. Generative AI tools are used occasionally to improve grammar and organization.*
+
 ### Some Projects
 
 - Ben Thompson Stratechery Chatbot ([Web App](https://unofficial-stratechery-chatbot.streamlit.app/))
