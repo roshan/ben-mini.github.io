@@ -4,7 +4,7 @@ title:  "Network Effects in Generative AI"
 date:   2024-04-03
 ---
 
-A **network effect** is when the value of a product or service increases as more people use it, creating a self-reinforcing cycle of growth. Social media platforms like Facebook and X are more valuable when one million users, instead of 100, are contributing to it. Uber and Lyft riders get more convenience and value when more riders join, as the demand brings in more drivers. Jeff Bezos' famous napkin drawing of Amazon's strategy in 2001 depicts network effects in action: low prices attract users, which attract sellers, which attract more users, and so on: 
+A **network effect** is when the value of a product or service increases as more people use it, creating a self-reinforcing cycle of growth. Social media platforms like Facebook and X are more valuable with one million users, instead of 100, contributing to it. Uber and Lyft riders get more convenience and value when more riders join, as the demand brings in more drivers. Jeff Bezos' famous napkin drawing of Amazon's strategy in 2001 depicts network effects in action: low prices attract users, which attract sellers, which attract more users, and so on: 
 
 <img src="../assets/images/Amazon-Flywheel-1024x1002.jpg" alt="Amazon Flywheel Napkin" style="zoom:50%;" />
 
