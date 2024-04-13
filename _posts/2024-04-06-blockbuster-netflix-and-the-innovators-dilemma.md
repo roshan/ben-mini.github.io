@@ -2,7 +2,6 @@
 layout: single
 title:  "Blockbuster, Netflix, and The Innovator's Dilemma"
 date:   2024-04-06
-
 ---
 
 Once upon a time, Netflix was not guaranteed to beat Blockbuster. Blockbuster had a DVD-by-mail Netflix competitor called "Blockbuster Online" that later evolved into "Blockbuster Total Access". I vaguely remember seeing its commercial announcement in 2006:
