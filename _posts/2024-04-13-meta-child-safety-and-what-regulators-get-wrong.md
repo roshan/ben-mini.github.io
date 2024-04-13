@@ -31,7 +31,7 @@ Apple and Google do not pass any of this information to apps. Zuck argues that t
 
 ### What Regulators Get Wrong
 
-This fun, little age verification debate is a microcosm for how lawmakers in both political parties don't know how to regulate big tech. The key factor is *consumer sentiment*. Railroad regulation was driven by consumer discontent due to discriminatory practices and monopolistic pricing by railroad companies. What's different today is that lawmakers are fighting tech companies whose consumers are not only loyal but *addicted* to their services. Teens, the true experts of social platforms (not the parents), can easily break age checks.
+This fun, little age verification debate is a microcosm for how lawmakers in both political parties don't know how to regulate big tech. The key factor is *consumer sentiment*. Railroad regulation was driven by consumer discontent due to discriminatory practices and monopolistic pricing by railroad companies. What's different today is that lawmakers are fighting tech companies whose consumers are not only loyal but *addicted* to their services. Teens, the true experts of social platforms (not the parents), can easily break age checks to get their high. Our philosophical distaste in social media does not reflect the reality of our addiction.
 
 Until lawmakers become honest about the psychology of tech addiction and the relationship between devices and applications can they find a just solution. The current architecture of the internet puts a lot of control in the hands of the device makers. When I wanted to buy Call of Duty as a kid, I needed parental approval before leaving Gamestop with the disc. Apple and Google are the new gatekeepers of distribution, and they must be discussed as such.
 
