@@ -6,10 +6,10 @@
 
 <div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    <h1 class="no_toc" itemprop="headline">
+    <h2 style="margin: 0px;" class="no_toc" itemprop="headline">
       <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-    </h1>
-    <p class="archive__item-date" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</p>
+    </h2>
+    <p style="margin-top: 5px; margin-bottom: 5px;" class="archive__item-date" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</p>
   </article>
   <hr>
 </div>
