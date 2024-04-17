@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Da Art of (Business) Storytellin'"
-date:   2024-04-13
+date:   2024-04-16
 ---
 
 It's no coincidence that Steve Jobs, the greatest storyteller in business history, was also a critical part of Pixar. After buying Pixar and becoming its CEO in 1986, Jobs immediately brought his talent of [combining technology and the liberal arts](https://www.goodreads.com/quotes/3191123-it-is-in-apple-s-dna-that-technology-alone-is-not) to the big screen. After trusting his team to pivot from computer graphics to animated films, the company kicked off their 30-year streak of cultural dominance with Toy Story, [crediting Jobs as an executive producer](https://www.latimes.com/archives/la-xpm-1995-10-24-fi-60492-story.html).
@@ -12,7 +12,7 @@ What Jobs created is now the standard for how tech companies operate. Good compa
 
 Storytelling is not only important for advertising but for internal team alignment. We hear stories about [Airbnb's movie-quality storyboards](https://twitter.com/bchesky/status/1654137863007612930) around its office or [Amazon's Press Release Method](https://maven.com/articles/start-with-the-press-release-amazon-method). The key takeaway is that the company must align marketing and product. Slogans and one-liners must be brainstormed at the same time patents are being drawn. If the product team builds first, then asks marketing to find the story, it's a recipe for disaster. It will lead to the customer expecting X but actually receiving Y. 
 
-Although I've never officially been in a product or marketing position, I have observed and read a lot. As I pursue my ambitions, I built the following list of tactical methods to bring storytelling into day-to-day development:
+Although I've never officially been in product or marketing, I have observed and read a lot. As I pursue my ambitions, I built the following list of tactical methods to bring storytelling into day-to-day development:
 
 ### 1. Name Things
 
