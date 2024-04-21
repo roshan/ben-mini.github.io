@@ -6,7 +6,7 @@ header:
     og_image: "../assets/images/coca-cola-freestyle-wells-library.jpg"
 ---
 
-![Coca-Cola Freestyle Machine Wells Library](../assets/images/coca-cola-freestyle-wells-library.jpg)
+<img src="../assets/images/coca-cola-freestyle-wells-library.jpg" alt="Coca-Cola Freestyle Machine Wells Library" style="zoom:33%;" />
 
 Coca-Cola Freestyle is the greatest missed opportunity in the history of modern humanity. Okay, maybe a bit of an exaggeration. But, let me explain.
 
