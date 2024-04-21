@@ -16,7 +16,7 @@ Timing is the luckiest asset a business can have, and Taylor had it in abundance
 
 Taylor's rise aligned with the record labels' final years of oligopoly in music distribution. In the early 2010's, music still had to be *purchased*- CDs were still bought, and iTunes was still selling music on a per-album or per-song basis. In fact, [it wasn't until 2016 that streaming services (Spotify, Apple Music, Tidal) generated the majority of music revenue](https://www.riaa.com/wp-content/uploads/2017/03/RIAA-2016-Year-End-News-Notes.pdf): 
 
-<img src="../assets/images/music-revenues-by-format.png" alt="Music Revenue by Service" style="zoom:25%;" />
+<img src="../assets/images/music-revenues-by-format.png" alt="Music Revenue by Format" style="zoom:33%;" />
 
 Taylor's presence before music streaming, when a few dominant record labels controlled the industry, allowed her to accrue significant wealth and influence, a luxury which artists today do not have. She took that wealth and influence into the streaming era by [challenging Spotify](https://www.rollingstone.com/music/music-news/taylor-swift-abruptly-pulls-entire-catalog-from-spotify-55523/) ([and winning](https://www.vox.com/culture/2017/6/9/15766576/taylor-swift-spotify-streaming-katy-perry)), as well as convincing her fanbase to [continue buying her albums directly](https://arc.net/l/quote/awiuewmw), as a form of protest against the corporate overlords.
 
