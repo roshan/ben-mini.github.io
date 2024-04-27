@@ -34,6 +34,11 @@ layout: default
             <h1 id="page-title" class="page__title p-name" itemprop="headline">
               {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
             </h1>
+            {% if page.subtitle %}
+              <p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px;">
+                <i>{{ page.subtitle}}</i>
+              </p>
+            {% endif %}
             {% include page__date.html %} <!-- Moved the date here -->
           {% endif %}
           {% include page__meta.html %}
