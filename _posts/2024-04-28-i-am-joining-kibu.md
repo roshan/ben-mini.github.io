@@ -14,7 +14,7 @@ In retrospect, I'm obviously thankful for my time in speech therapy. But, what's
 
 **Today, I am happy to announce I will be joining the Kibu leadership team as its Head of Customer Success!**
 
-For those unaware, Kibu is both a content maker and software platform. It offers fitness, recreational, job, and life skill classes for the IDD community, plus an all-in-one software platform for Disability Providers and their staff ([DSPs](https://www.dol.gov/agencies/odep/program-areas/individuals/DSP) and Social Workers). Speaking with our CEO Daniel Caridi, I anticipate to focus mostly on the software platform side- as there is much work to be done in customer onboarding, training, support, and analytics. 
+For those unaware, [Kibu](https://kibuhq.com/) is both a content maker and software platform. It offers fitness, recreational, job, and life skill classes for the IDD community, plus an all-in-one software platform for Disability Providers and their staff ([DSPs](https://www.dol.gov/agencies/odep/program-areas/individuals/DSP) and Social Workers). Speaking with our CEO Daniel Caridi, I anticipate to focus mostly on the software platform side- as there is much work to be done in customer onboarding, training, support, and analytics. 
 
 As Head of Customer Success, I recognize Kibu has a multitude of *customers* that ought to *succeed*- parents, caretakers, DSPs, Provider Admins, and so on. However, Kibu's most important participant is, and always will be, the IDD individual. As long as our strategy, product, and team are built around them and address the problems stated above, I am confident that all our customers will inevitably succeed.
 
