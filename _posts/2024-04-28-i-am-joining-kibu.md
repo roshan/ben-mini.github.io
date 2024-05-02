@@ -2,8 +2,7 @@
 layout: single
 title:  "I am joining Kibu!"
 subtitle: "Ben Wallace on special needs and joining Kibu as its Head of Customer Success"
-date:   2024-04-28
-hidden: true
+date:   2024-05-02
 ---
 
 When I was in elementary school, I couldn't pronounce my Rs or Ss. It was adorable. This required me to receive speech therapy two to three times per week.
