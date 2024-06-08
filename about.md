@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 author_profile: true
 ---
-![ben-mini](./assets/images/ben-mini.svg)
+<img src="/assets/images/ben-mini.svg" alt="ben-mini" style="zoom: 15%;" />
 
 Hi 👋,
 
