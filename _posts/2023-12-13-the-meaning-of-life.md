@@ -2,8 +2,11 @@
 layout: single
 title:  "The Meaning of Life"
 date:   2023-12-13
+header:
+    og_image: "../assets/images/because-the-internet-vinyl.jpeg"
 ---
-{% include figure image_path="https://media.licdn.com/dms/image/D5612AQHqHGDsHPoi3g/article-cover_image-shrink_720_1280/0/1702488395106?e=1716422400&v=beta&t=oTZH1V0eMjcYUB6mWSbudhaEr6NN_ZzaiU98CRd9zOM" alt="Because the Internet art" caption="Childish Gambino’s Because the Internet vinyl art¹" %}
+
+<img src="../assets/images/because-the-internet-vinyl.jpeg" alt="Childish Gambino's Because The Internet Vinyl Art" style="zoom: 80%;" />
 
 In my opinion…
 
