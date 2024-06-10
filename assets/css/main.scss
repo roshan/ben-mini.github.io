@@ -128,4 +128,13 @@ a {
 
 html {
   font-family: $sans-serif;
+  cursor: url('cursors/cursorDefault.svg'), auto;
+}
+
+p, ul, ol, h1, h2, h3, h4, h5, h6 {
+  cursor: url('cursors/cursorText.svg'), auto;
+}
+
+a:hover {
+  cursor: url('cursors/cursorPointer.svg'), auto;
 }
