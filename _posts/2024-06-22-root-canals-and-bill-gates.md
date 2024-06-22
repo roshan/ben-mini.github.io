@@ -33,7 +33,7 @@ But through this failure, the infrastructure slowly, deliberately improved:
 
 ### Key Takeaways
 
-**Don't Panic:** Beyond war and meteorites, very little can change our lives overnight. Such change requires investment, skilled labor, and repeated failure. Take solace in knowing you have no idea what this process will make the world will look like in ten years.
+**Don't Panic:** Beyond war and meteorites, very little can change our lives overnight. Such change requires investment, skilled labor, and repeated failure. Take solace in knowing you have no idea what this process will make the world look like in ten years.
 
 **Learn What's Boring:** Slow, boring, incremental progress is found in research papers and Discord channels. Get off the eye-grabbing, mainstream newsfeeds and into niche blogs and communities that are immersed in the boring. Personally, I enjoy Jack Clark's [Import AI](https://jack-clark.net/) as a source for the latest AI news.
 
