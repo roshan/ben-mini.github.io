@@ -16,7 +16,7 @@ Then, I turned it on:
 
 {% include video id="ku2uWct4TNo?start=177" provider="youtube" %}
 
-**The cartridge had a freaking gyroscope in it that detected motion!! ** While I don't remember many specifics about the game's plot or objectives, I recall ***staring*** at the cartridge's internals. How did they fit a steering wheel into that? Who at Nintendo pitched an idea like this? These were my first critical thoughts about the relationship between hardware, software, and risky business.
+**The cartridge had a freaking gyroscope in it that detected motion!!** While I don't remember many specifics about the game's plot or objectives, I recall ***staring*** at the cartridge's internals. How did they fit a steering wheel into that? Who at Nintendo pitched an idea like this? These were my first critical thoughts about the relationship between hardware, software, and risky business.
 
 ### 2. iPod Touch & App Store (2007)
 
@@ -79,6 +79,3 @@ Let's review:
 - GPT-2 is the next evolution of marriage between technology and the liberal arts.
 
 There are two types of products: pleasure products and time-saving products. With the exception of *WarioWare*, I think all the innovations above were both! As I continue to build my own products, I can only hope that my users will find them as mind-blowingly fun and efficient as I found these.
-
-
-
