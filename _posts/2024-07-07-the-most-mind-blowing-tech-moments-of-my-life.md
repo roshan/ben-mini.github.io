@@ -30,7 +30,7 @@ In 9th grade English class, Ms. Falce assigned us an in-class essay in the compu
 
 Three features of Google Docs blew my mind:
 
-1. **Auto-Save:** Before Google Docs, the stress of wondering if you saved your document was like leaving the burner on. But with auto-save, Google turned the archaic "email it yourself" strategy into an ambient feature.
+1. **Auto-Save:** Before Google Docs, the stress of wondering if you saved your document was like leaving the burner on. But with auto-save, Google turned the archaic "email it to yourself" strategy into an ambient feature.
 2. **Links, Not Files:** Before Google Docs, files lived either in your C-Drive, thumb drive, or email. But after seeing my Google Doc's messy URL, I immediately understood the value of cloud computing. All the processing and storage happened on Google's servers, not mine!
 3. **Multiplayer:** Multiple users could collaborate on a doc at once, allowing two kids to work in the same document in real-time. While multiplayer existed in video games and IM, Google Docs was the first to bring it to school. It felt fast, gratifying, and seamless.
 
