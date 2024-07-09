@@ -2,6 +2,7 @@
 layout: single
 title:  "Modality Switching Online"
 date:   2024-06-08
+hidden: true
 ---
 
 I hate it when my dad leaves me a voicemail. Whenever I open my phone and see the pending voicemail, I roll my eyes. He tends to meander. My dad's messages can range from 40 seconds to 2 minutes. He typically wants to inform me of something, like an upcoming family event or an important-looking envelope under my name. But, the voicemail is typically filled with uhm's and uhh's, distractions, loss of words... as I impatiently wait for the key information! I try to scan through the voicemail transcript, but [transcription is awful on the iPhone](https://www.reddit.com/r/iPhone14Pro/comments/1b9ya06/why_is_apples_voicemail_transcription_often/). *Why doesn't he just text me? Why doesn't he understand that text is much easier to read, search, and reformat?*
