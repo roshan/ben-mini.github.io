@@ -24,7 +24,7 @@ Spolsky explains that demand for a product increases as the price of its complem
 
 > **Smart companies try to commoditize their products’ complements.**
 
-To put more bluntly, what needs to become $0 for customers to give lots of money? 
+To put more bluntly, what needs to become $0 for customers to give us lots of money? 
 
 Spolsky cites several examples from the 90s that would make any Chicago Bulls fan nostalgic. The most relatable is Netscape's decision to commodify its web browser. They could have charged for the browser, but they saw more money in the B2B server market. *If everyday people could access a richer Internet with images and links for $0, demand for web companies would skyrocket.* Those companies needed servers, and Netscape provided them. Next thing you know, ba-da-bing, ba-da-boom—Netscape's founders became some of [the wealthiest, most powerful men in Silicon Valley](https://www.forbes.com/sites/alexkonrad/2019/04/02/andreessen-horowitz-is-blowing-up-the-venture-capital-model-again/).
 
