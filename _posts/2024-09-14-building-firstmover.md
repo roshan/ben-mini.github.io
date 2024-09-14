@@ -50,3 +50,9 @@ Not sure. We definitely don't want to buy any Google or Facebook ads. We don't h
 Great question! I *think* we're good. While Zillow and StreetEasy's Terms of Use prohibit scraping, it’s worth noting that *I never agreed to those terms*. All the data we’re collecting is publicly available, without a paywall or login. A guy who scraped Crunchbase [used a similar argument](https://x.com/adrian_horning_/status/1831396619184697789), which is pretty cool. He even cited two court cases, including [Meta v. Bright Data](https://arc.net/l/quote/lwotjipf), where the court explicitly ruled that "the Facebook and Instagram Terms do not bar logged-off scraping of public data; perforce it does not prohibit the sale of such public data."
 
 This ruling sets a precedent that logged-off scraping of public data is fair game. It’s actually really interesting - especially when you consider its implications for both AI models and small projects like FirstMover.
+
+### Final Thoughts
+
+I'm excited for this. Not just because I think it's a great project that people will like, but that it aligns with business strategies that I've been thinking about for a long time. The Internet has greatly diminished the information gap between buyer and seller, and FirstMover is a service that gives buyers one small leg-up. 
+
+It's funny that [I admired Zillow for doing exactly this 2004](https://ben-mini.github.io/2024/old-school-business), and now I'm contemplating if they'll sue me for doing that exact thing, lol. We'll see!
