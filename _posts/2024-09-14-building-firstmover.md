@@ -31,7 +31,7 @@ So, I built [FirstMover](https://www.firstmovernyc.com/).
 
 FirstMover is a pretty simple app. [Here's the code for it](https://github.com/benfwalla/firstmover-api), if you're a programmer. Every 10 minutes, it scrapes StreetEasy for new listings. When it finds one, it sends a push notification to any user whose search criteria on FirstMover matches the listing. I built the v1 in a day, thanks to ChatGPT and some prior web scraping experience. For phone notifications, I used [Pushover](https://pushover.net/), a low-cost solution.
 
-Within a week, FirstMover found us an apartment. I responded instantly, booked a next-day tour, submitted my application, and got the place. When I asked the broker why we were chosen, he said, "Well, you had good credit, but ***honestly, you were the first to respond***." That’s market validation, baby!
+Within a week, FirstMover found us an apartment. I connected instantly, booked a next-day tour, submitted my application, and got the place. When I asked the broker why we were chosen, he said, "Well, you had good credit, but ***honestly, you were the first to respond***." That’s market validation, baby!
 
 My co-founder Justin and I are planning to productize FirstMover and offer it for $25/month.
 
