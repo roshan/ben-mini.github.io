@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Building FirstMover"
-subtitle: "FirstMover is an app that gets you StreetEasy notifications before anyone else"
+subtitle: "FirstMover is an app that gets you StreetEasy notifications before anyone else."
 date:   2024-09-14
 ---
 
